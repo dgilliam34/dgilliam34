@@ -10,6 +10,8 @@
 
 - https://github.com/dgilliam34/dgilliam34/commit/0c7210c7549e068aca5c38bfd025f125d2567510#diff-e0cbf5a818c0e3ee0e515c03275e18783160f544c33cd7f68fbc0c8d508250bc
 
+- Bug Report_ Review Stars Issue 🐞.mp4
+
 - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
